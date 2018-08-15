@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"AutoHotkey",
+		"Babel",
+		"Boxy Theme",
+		"Color Convert",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"Enki Theme",
+		"Ethereum",
+		"EthereumSoliditySnippets",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"HTMLEntity Snippets",
+		"Javascript Beautify",
+		"Package Control",
+		"PostCSS Sorting",
+		"ShellScriptImproved",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-gcc",
+		"SublimeLinter-jshint",
+		"SublimeWebColors"
+	]
+}

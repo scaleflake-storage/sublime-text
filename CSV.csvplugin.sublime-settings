@@ -1,0 +1,9 @@
+{
+	"csv_per_file_setting":
+	[
+		{
+			"file": "/home/scaleflake/dev/energy/database/consumption_factory_2.csv",
+			"use_header": true
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"find_selected_text": true,
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"theme": "Boxy Tomorrow.sublime-theme"
+}

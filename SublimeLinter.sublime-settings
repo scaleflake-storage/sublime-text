@@ -1,0 +1,20 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+        "jslint": {
+            "@disable": false,
+            "args": [],
+            "excludes": "*/*.*.template"
+        },
+        "jslinter": {
+            "@disable": false,
+            "args": [],
+            "excludes": "*/*.*.template"
+        },
+        "jshint": {
+            "@disable": false,
+            "args": [],
+            "excludes": "*/*.*.template"
+        }
+    }
+}
