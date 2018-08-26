@@ -15,6 +15,34 @@
             "@disable": false,
             "args": [],
             "excludes": "*/*.*.template"
+        },
+        "gcc": {
+            "disable": false,
+            // C-specific settings
+            "c_executable": "C:\\mingw-w64\\x86_64-7.2.0-win32-seh-rt_v5-rev1\\mingw64\\bin\\gcc.exe",
+            "c_extra_flags": [
+                "-fsyntax-only",
+                "-std=c90",
+            ],
+            // C++-specific settings
+            "c++_executable": "C:\\mingw-w64\\x86_64-7.2.0-win32-seh-rt_v5-rev1\\mingw64\\bin\\g++.exe",
+            "c++_extra_flags": [
+                "-fsyntax-only",
+                "-std=c++11",
+            ],
+            // include_dirs for both C and C++
+            "include_dirs": [
+                "${project_folder}/*",
+                "/usr/local/include",
+            ],
+        },
+        "javac": {
+            "lint": "all,-deprecation",
+            "args": [
+                "-encoding", "UTF8",
+                "-sourcepath", "${folder}/src/",
+                "-d ${folder}/bin/"
+            ]
         }
     }
 }
